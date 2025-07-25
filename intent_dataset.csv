@@ -1,0 +1,199 @@
+text,label
+create a policy for new customers,GENERATE_DOCUMENT
+draft a legal agreement,GENERATE_DOCUMENT
+write a new insurance document,GENERATE_DOCUMENT
+prepare the onboarding guide,GENERATE_DOCUMENT
+generate a monthly report,GENERATE_DOCUMENT
+compose an employee handbook,GENERATE_DOCUMENT
+initiate a new service contract,GENERATE_DOCUMENT
+design a standard procedure manual,GENERATE_DOCUMENT
+build a compliance checklist,GENERATE_DOCUMENT
+create document for vendor terms,GENERATE_DOCUMENT
+start drafting a benefits summary,GENERATE_DOCUMENT
+write a letter of recommendation,GENERATE_DOCUMENT
+generate new client proposal,GENERATE_DOCUMENT
+prepare contract agreement draft,GENERATE_DOCUMENT
+compose a job description,GENERATE_DOCUMENT
+create a user manual,GENERATE_DOCUMENT
+prepare project charter,GENERATE_DOCUMENT
+develop a travel policy,GENERATE_DOCUMENT
+write up onboarding policy,GENERATE_DOCUMENT
+generate internal use policy,GENERATE_DOCUMENT
+make a new NDA document,GENERATE_DOCUMENT
+start a new legal doc,GENERATE_DOCUMENT
+compile a new operational guide,GENERATE_DOCUMENT
+put together an HR document,GENERATE_DOCUMENT
+draft up a termination letter,GENERATE_DOCUMENT
+write new policy for data use,GENERATE_DOCUMENT
+generate financial summary document,GENERATE_DOCUMENT
+create employee evaluation forms,GENERATE_DOCUMENT
+prepare salary structure file,GENERATE_DOCUMENT
+make a client intake form,GENERATE_DOCUMENT
+compose service level agreement,GENERATE_DOCUMENT
+write a summary report,GENERATE_DOCUMENT
+develop an audit checklist,GENERATE_DOCUMENT
+build standard form template,GENERATE_DOCUMENT
+create SOP for security team,GENERATE_DOCUMENT
+draft internal communication plan,GENERATE_DOCUMENT
+prepare risk assessment file,GENERATE_DOCUMENT
+create template for invoices,GENERATE_DOCUMENT
+write terms and conditions,GENERATE_DOCUMENT
+create workflow diagram doc,GENERATE_DOCUMENT
+generate product overview file,GENERATE_DOCUMENT
+make project proposal doc,GENERATE_DOCUMENT
+draft code of conduct,GENERATE_DOCUMENT
+develop an FAQ document,GENERATE_DOCUMENT
+write a new compliance letter,GENERATE_DOCUMENT
+create annual business plan,GENERATE_DOCUMENT
+prepare quarterly report,GENERATE_DOCUMENT
+build a user agreement,GENERATE_DOCUMENT
+create a leave policy,GENERATE_DOCUMENT
+initiate expense reimbursement form,GENERATE_DOCUMENT
+add new rule for approval process,UPDATE_RULES
+update the security protocol,UPDATE_RULES
+modify access control policy,UPDATE_RULES
+change the password expiration rule,UPDATE_RULES
+edit the rule for document retention,UPDATE_RULES
+add exception for admin users,UPDATE_RULES
+include new rule for third-party access,UPDATE_RULES
+change compliance verification rules,UPDATE_RULES
+update content moderation rules,UPDATE_RULES
+adjust terms of service clause,UPDATE_RULES
+revise the eligibility rules,UPDATE_RULES
+insert condition for remote access,UPDATE_RULES
+amend the protocol settings,UPDATE_RULES
+enhance review rules,UPDATE_RULES
+insert an extra validation rule,UPDATE_RULES
+update rule for daily transaction limits,UPDATE_RULES
+adjust workflow approval levels,UPDATE_RULES
+add clause for late submission,UPDATE_RULES
+modify rule on overtime payment,UPDATE_RULES
+change shipping regulation rule,UPDATE_RULES
+add new rule to approval workflow,UPDATE_RULES
+adjust timeout settings for sessions,UPDATE_RULES
+insert rule for guest access,UPDATE_RULES
+edit hiring policy rules,UPDATE_RULES
+amend the rules for PTO accrual,UPDATE_RULES
+update the fraud detection rules,UPDATE_RULES
+change firewall rule for port 443,UPDATE_RULES
+alter rule for customer verification,UPDATE_RULES
+update the onboarding rule set,UPDATE_RULES
+revise access rules for users,UPDATE_RULES
+add limit rule for document uploads,UPDATE_RULES
+set rule for password complexity,UPDATE_RULES
+change holiday scheduling rules,UPDATE_RULES
+amend performance rating rules,UPDATE_RULES
+edit rule for data encryption,UPDATE_RULES
+add policy exception for testing team,UPDATE_RULES
+introduce auto-lock rule,UPDATE_RULES
+change retry limit rule,UPDATE_RULES
+update employee access rule,UPDATE_RULES
+revise purchase approval rules,UPDATE_RULES
+edit escalation rules,UPDATE_RULES
+change the backup retention rule,UPDATE_RULES
+insert override for critical alerts,UPDATE_RULES
+adjust login rules,UPDATE_RULES
+change mobile access policy rule,UPDATE_RULES
+edit the rule for leave balance,UPDATE_RULES
+modify signature validation rule,UPDATE_RULES
+enhance threshold limit rules,UPDATE_RULES
+tweak firewall exception list,UPDATE_RULES
+how can I edit a rule?,QUERY_INFORMATION
+what is the policy creation process?,QUERY_INFORMATION
+which rule applies to contractors?,QUERY_INFORMATION
+how to delete a document?,QUERY_INFORMATION
+where is the report template saved?,QUERY_INFORMATION
+what is the retention period for documents?,QUERY_INFORMATION
+how do I access archived files?,QUERY_INFORMATION
+what’s the latest update to the travel policy?,QUERY_INFORMATION
+how to modify an existing SOP?,QUERY_INFORMATION
+can I change my access rights?,QUERY_INFORMATION
+where can I find HR policies?,QUERY_INFORMATION
+how can I generate a new form?,QUERY_INFORMATION
+what’s the rule for remote workers?,QUERY_INFORMATION
+what is the procedure for updating rules?,QUERY_INFORMATION
+how do I submit a document for review?,QUERY_INFORMATION
+who approves policy drafts?,QUERY_INFORMATION
+what format should reports be in?,QUERY_INFORMATION
+how do I remove an old rule?,QUERY_INFORMATION
+what permissions are needed to update?,QUERY_INFORMATION
+how is the document history tracked?,QUERY_INFORMATION
+what steps are needed to publish a doc?,QUERY_INFORMATION
+which policies are active now?,QUERY_INFORMATION
+when was the rule last changed?,QUERY_INFORMATION
+how do I find document ID?,QUERY_INFORMATION
+what’s the current version of the template?,QUERY_INFORMATION
+how to rollback a rule update?,QUERY_INFORMATION
+how are changes audited?,QUERY_INFORMATION
+which user added this rule?,QUERY_INFORMATION
+how do I verify a document?,QUERY_INFORMATION
+how are roles assigned?,QUERY_INFORMATION
+can I see version history?,QUERY_INFORMATION
+what rules are mandatory?,QUERY_INFORMATION
+where do I request edit access?,QUERY_INFORMATION
+what happens after submitting a doc?,QUERY_INFORMATION
+which team reviews new rules?,QUERY_INFORMATION
+who owns the document?,QUERY_INFORMATION
+how often are rules reviewed?,QUERY_INFORMATION
+what’s the approval workflow?,QUERY_INFORMATION
+how do I archive a file?,QUERY_INFORMATION
+what tags are used in documents?,QUERY_INFORMATION
+what’s the format for rules?,QUERY_INFORMATION
+how do I know a rule was applied?,QUERY_INFORMATION
+what’s the difference between rules and policies?,QUERY_INFORMATION
+can I revert a deleted doc?,QUERY_INFORMATION
+how do rule priorities work?,QUERY_INFORMATION
+what’s the naming convention?,QUERY_INFORMATION
+how long does it take to update a policy?,QUERY_INFORMATION
+where do I find version notes?,QUERY_INFORMATION
+how do I escalate a policy issue?,QUERY_INFORMATION
+delete the outdated compliance form,DELETE_DOCUMENT
+remove old employee records,DELETE_DOCUMENT
+clear obsolete contracts,DELETE_DOCUMENT
+erase the draft proposal,DELETE_DOCUMENT
+discard invalid reports,DELETE_DOCUMENT
+delete the retired policy file,DELETE_DOCUMENT
+remove uploaded image from the doc,DELETE_DOCUMENT
+permanently delete the evaluation form,DELETE_DOCUMENT
+wipe the test document,DELETE_DOCUMENT
+remove the outdated version of the form,DELETE_DOCUMENT
+delete duplicate entries,DELETE_DOCUMENT
+clear project closure document,DELETE_DOCUMENT
+erase the invalid attachment,DELETE_DOCUMENT
+delete archived rule file,DELETE_DOCUMENT
+discard backup document,DELETE_DOCUMENT
+remove temporary document files,DELETE_DOCUMENT
+delete document number 17,DELETE_DOCUMENT
+delete document number 18,DELETE_DOCUMENT
+delete document number 19,DELETE_DOCUMENT
+delete document number 20,DELETE_DOCUMENT
+delete document number 21,DELETE_DOCUMENT
+delete document number 22,DELETE_DOCUMENT
+delete document number 23,DELETE_DOCUMENT
+delete document number 24,DELETE_DOCUMENT
+delete document number 25,DELETE_DOCUMENT
+delete document number 26,DELETE_DOCUMENT
+delete document number 27,DELETE_DOCUMENT
+delete document number 28,DELETE_DOCUMENT
+delete document number 29,DELETE_DOCUMENT
+delete document number 30,DELETE_DOCUMENT
+delete document number 31,DELETE_DOCUMENT
+delete document number 32,DELETE_DOCUMENT
+delete document number 33,DELETE_DOCUMENT
+delete document number 34,DELETE_DOCUMENT
+delete document number 35,DELETE_DOCUMENT
+delete document number 36,DELETE_DOCUMENT
+delete document number 37,DELETE_DOCUMENT
+delete document number 38,DELETE_DOCUMENT
+delete document number 39,DELETE_DOCUMENT
+delete document number 40,DELETE_DOCUMENT
+delete document number 41,DELETE_DOCUMENT
+delete document number 42,DELETE_DOCUMENT
+delete document number 43,DELETE_DOCUMENT
+delete document number 44,DELETE_DOCUMENT
+delete document number 45,DELETE_DOCUMENT
+delete document number 46,DELETE_DOCUMENT
+delete document number 47,DELETE_DOCUMENT
+delete document number 48,DELETE_DOCUMENT
+delete document number 49,DELETE_DOCUMENT
+delete document number 50,DELETE_DOCUMENT
